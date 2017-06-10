@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 lol
+=======
+something terrible
+>>>>>>> 496db7aa04101b7e406397743db4cec2efa26b7c
